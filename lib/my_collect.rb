@@ -1,7 +1,7 @@
 def my_collect(array)
   counter = 0
   collection = []
-  while counter < 
+  while counter <
     counter += 1
   end
   counter
