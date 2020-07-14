@@ -1,3 +1,3 @@
 def my_collect(languages, students)
-  i = 0
+  counter = 0
   collection = []
