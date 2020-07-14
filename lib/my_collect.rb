@@ -1,7 +1,7 @@
-def my_collect(languages, students)
+def my_collect(array)
   counter = 0
   collection = []
-  my_collect(collection) do |collect|
+  while counter < 
     counter += 1
   end
   counter
